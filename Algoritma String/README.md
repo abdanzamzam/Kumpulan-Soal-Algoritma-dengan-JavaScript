@@ -7,11 +7,11 @@ Kode Program
 let word = 'Hacktiv8'
 
 for (let i = 0; i < word.length; i++) {
-    let spasi = "";
+    let space = "";
     for (let j = 0; j < i ; j++) {
-        spasi = spasi + " ";
+        space = space + " ";
     }
-    console.log(spasi + word[i]);
+    console.log(space + word[i]);
 }
 ```
 Hasil Output
