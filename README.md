@@ -10,7 +10,7 @@ for (let i = 0; i < rows; i++) {
 }
 ```
 **Hasil Output**
-```
+```shell
 *
 *
 *
@@ -32,7 +32,7 @@ for (let i = 0; i < rows; i++) {
 console.log(bintangPersegi);
 ```
 **Hasil Output**
-```
+```shell
 *****
 *****
 *****
