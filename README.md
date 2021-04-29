@@ -18,5 +18,26 @@ for (let i = 0; i < rows; i++) {
 *
 ```
 ### 2. Bintang Polo Kotak Persegi
+**Kode Program**
+```js
+let rows = 5;
+
+let bintangPersegi = '';
+for (let i = 0; i < rows; i++) {
+    for (let j = 0; j < rows; j++) {
+        bintangPersegi += '*';
+    }
+    bintangPersegi += '\n';
+}
+console.log(bintangPersegi);
+```
+**Hasil Output**
+```
+*****
+*****
+*****
+*****
+*****
+```
 ### 3. Bintang Pola Segitiga Menurun
 ### 4. Bintang Pola Segitiga Menurun Terbalik
