@@ -6,8 +6,6 @@ Kode Program
 ```js
 let word = 'Hacktiv8'
 
-kata = "";
-
 for (let i = 0; i < word.length; i++) {
     let spasi = "";
     for (let j = 0; j < i ; j++) {
