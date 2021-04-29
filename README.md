@@ -17,7 +17,7 @@ for (let i = 0; i < rows; i++) {
 *
 *
 ```
-### 2. Bintang Polo Kotak Persegi
+### 2. Bintang Pola Kotak Persegi
 **Kode Program**
 ```js
 let rows = 5;
