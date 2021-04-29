@@ -40,4 +40,42 @@ console.log(bintangPersegi);
 *****
 ```
 ### 3. Bintang Pola Segitiga Menurun
-### 4. Bintang Pola Segitiga Menurun Terbalik
+**Kode Program**
+```js
+let segitigaKebawah = '';
+for (let i = 0; i < rows3; i++) {
+    for (let j = 0; j <= i; j++) {
+        segitigaKebawah += '*';
+    }
+    segitigaKebawah += '\n';
+}
+console.log(segitigaKebawah);
+```
+**Hasil Output**
+```shell
+*
+**
+***
+****
+*****
+```
+### 4. Bintang Pola Segitiga Terbalik Keatas
+**Kode Program**
+```js
+let segitigaKeatas = '';
+for (let i = 0; i < rows4; i++) {
+    for (let j = rows4; j > i; j--) {
+        segitigaKeatas += '*';
+    }
+    segitigaKeatas += '\n';
+}
+console.log(segitigaKeatas);
+```
+**Hasil Output**
+```shell
+*****
+****
+***
+**
+*
+```
