@@ -2,7 +2,7 @@
 Berikut dibawah ini merupakan kumpulan algoritma bermain dengan string, dimana kita akan melakukan berbagai manipulasi dengan string. Pada eksperimen ini kita akan menggunakan bahasa pemrograman JavaScript.
 
 ### 1. Membuat Segitiga String Ber-spasi
-**Kode Program**
+Kode Program
 ```js
 let word = 'Hacktiv8'
 
@@ -16,7 +16,7 @@ for (let i = 0; i < word.length; i++) {
     console.log(spasi + word[i]);
 }
 ```
-**Hasil Output**
+Hasil Output
 ```shell
 H
  a
