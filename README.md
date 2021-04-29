@@ -1,6 +1,13 @@
 # Kumpulan Algoritma Bintang dengan JavaScript
 Berikut dibawah ini merupakan kumpulan algoritma bentuk-bentuk bintang dengan metode perulangan/ looping menggunakan bahasa pemrograman JavaScript
-## Bintang Pola Kebawah
-## Bintang Polo Kotak Persegi
-## Bintang Pola Segitiga Menurun
-## Bintang Pola Segitiga Menurun Terbalik
+### Bintang Pola Kebawah
+```js
+let rows = 5;
+
+for (let i = 0; i < rows; i++) {
+    console.log('*');
+}
+```
+### Bintang Polo Kotak Persegi
+### Bintang Pola Segitiga Menurun
+### Bintang Pola Segitiga Menurun Terbalik
