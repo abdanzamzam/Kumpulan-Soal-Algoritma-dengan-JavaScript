@@ -25,3 +25,26 @@ H
       v
        8
 ```
+### 2. Menambil Provider dari suatu Email
+Kode Program
+```js
+let input = 'icha@hacktiv8.com'
+let provider = '';
+
+for (let i = 0; i < input.length; i++) {
+    if (input[i - 1] === '@') {
+        for (let j = i; j < input.length; j++) {
+            if (input[j] === '.') {
+                break;
+            }
+            provider += input[j];
+        }
+        break;
+    }
+}
+console.log(`Your email provider is ${provider}`);
+```
+Hasil Output
+```shell
+Your email provider is hacktiv8
+```
