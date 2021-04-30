@@ -21,8 +21,8 @@ Hasil Output
 Kode Program
 ```js
 let rows = 5;
-
 let bintangPersegi = '';
+
 for (let i = 0; i < rows; i++) {
     for (let j = 0; j < rows; j++) {
         bintangPersegi += '*';
@@ -42,7 +42,9 @@ Hasil Output
 ### 3. Bintang Pola Segitiga Menurun
 Kode Program
 ```js
+let rows = 5;
 let segitigaKebawah = '';
+
 for (let i = 0; i < rows3; i++) {
     for (let j = 0; j <= i; j++) {
         segitigaKebawah += '*';
@@ -62,7 +64,9 @@ Hasil Output
 ### 4. Bintang Pola Segitiga Terbalik Keatas
 Kode Program
 ```js
+let rows = 5;
 let segitigaKeatas = '';
+
 for (let i = 0; i < rows4; i++) {
     for (let j = rows4; j > i; j--) {
         segitigaKeatas += '*';
