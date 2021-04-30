@@ -1,5 +1,5 @@
-# Kumpulan Algoritma Bintang dengan JavaScript
-Berikut dibawah ini merupakan kumpulan algoritma bentuk-bentuk bintang dengan metode perulangan/ looping menggunakan bahasa pemrograman JavaScript
+# Kumpulan Soal Algoritma Berdasarkan Studi Kasus
+Berikut dibawah ini merupakan kumpulan algoritma dalam implementasi studi kasus sederhana. Hal ini untuk melatih pondasi kemampuan kita terhadap logika dan bahasa pemrograman.
 ### 1. Bintang Pola Kebawah
 **Kode Program**
 ```js
