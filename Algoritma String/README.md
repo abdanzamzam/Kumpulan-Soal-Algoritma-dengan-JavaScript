@@ -25,7 +25,7 @@ H
       v
        8
 ```
-### 2. Menambil Nama Provider dari Suatu Email
+### 2. Mengambil Nama Provider dari Suatu Email
 Kode Program
 ```js
 let input = 'icha@hacktiv8.com'
