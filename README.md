@@ -5,6 +5,6 @@ Berikut dibawah ini merupakan kumpulan algoritma bentuk-bentuk algoritma yang se
 
 [2. Bermain dengan String dengan JavaScript](https://github.com/abdanzamzam/Kumpulan-Soal-Algoritma-dengan-JavaScript/tree/main/Algoritma%20String)
 
-[3. Kumpulan Soal Logika](https://github.com/abdanzamzam/Kumpulan-Soal-Algoritma-dengan-JavaScript/tree/main/Algoritma%20String)
+[3. Kumpulan Soal Logika](https://github.com/abdanzamzam/Kumpulan-Soal-Algoritma-dengan-JavaScript/tree/main/Logika%20Studi%20Kasus)
   
    [3.1. Aplikasi Bank Sederhana](https://github.com/abdanzamzam/Kumpulan-Soal-Algoritma-dengan-JavaScript/tree/main/Algoritma%20String)
